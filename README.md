@@ -5,7 +5,7 @@ This is the place where I learn, build, and explore awesome tech stuff 🚀
 - 🔭 I’m currently working on something exciting
 - 🌱 I’m currently learning **AI, ML, and Full-Stack Development**
 - 💬 Ask me about **Python, JavaScript, AI/ML, IoT**
-- 📫 How to reach me: **yourmail@example.com**
+- 📫 How to reach me: **muthumadesh428.com**
 - 🌐 Check out my projects: **https://github.com/muthumadhesh**
 - ⚡ Fun fact: I love solving real-time problems with technology ❤️
 
